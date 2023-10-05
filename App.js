@@ -23,7 +23,7 @@ function App() {
       <Header />
       <Navbar />
       {/* //card = menu item??  */}
-      <Card /> 
+      <Card />
       <Card />
       <Card />
     </div>

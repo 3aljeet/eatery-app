@@ -20,8 +20,8 @@ export default function Card(props) {
           alt="Card cap"
         />
         <div className="card-body">
-        <p className="card-text">itemID: {props.id}</p>
-        <h5 className="card-title">Name: {props.name}</h5>
+          <p className="card-text">itemID: {props.id}</p>
+          <h5 className="card-title">Name: {props.name}</h5>
           <p className="card-text">Description: {props.description}</p>
           <p className="card-text">price: {props.price}</p>
           <p className="card-text">category: {props.category}</p>
@@ -29,7 +29,7 @@ export default function Card(props) {
 
 
           <a href="#" className="btn btn-primary">
-           ORDER {props.name}
+            ORDER {props.name}
           </a>
         </div>
       </div>

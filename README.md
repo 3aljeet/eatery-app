@@ -1,14 +1,20 @@
-# eatery-app
-# <Your-Project-Title>
+# <Eatery-app>
 
 ## Description
 
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+USER STORY 
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+AS A Restaurant Owner 
+I WANT an app that allows me to put my menu online
+SO THAT customers can find me. 
+WHEN customers find my app, 
+THEN they can see the regMenu, 
+WHEN they place an order for their food, 
+THEN they are given an option to signUp, 
+WHEN they signUp, they are given access to a secretMenu. 
+WHEN they eat my food 
+THEN they will come back and give me all their money. 
 
 ## Table of Contents (Optional)
 
@@ -34,6 +40,8 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
     ```
 
 ## Credits
+Nicole Smith
+Ytbarek Solomon
 
 List your collaborators, if any, with links to their GitHub profiles.
 
@@ -42,8 +50,7 @@ If you used any third-party assets that require attribution, list the creators w
 If you followed tutorials, include links to those here as well.
 
 ## License
-
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
+MIT
 
 ---
 
